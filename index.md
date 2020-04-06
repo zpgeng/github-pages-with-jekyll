@@ -10,4 +10,4 @@ This is a place for me to post my recent thoughts on what I've learnt. Maybe I w
 
 ## Looking for Positions
 
-I am actively looking for data science related internships and research assistant positions. If you are interested, please email me at zpgeng@student.ethz.ch
+I am actively looking for data science related internships and research assistant positions. If you are interested, please email me at zigeng@student.ethz.ch
