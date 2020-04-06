@@ -1,6 +1,6 @@
 title: Zipei's Blog
 author: Zipei Geng
-theme: minima
+theme: leap-day
 email: zigeng@student.ethz.ch
 description: > # this means to ignore newlines until "baseurl:"
   Thoughts of learning data science and machine learning.
